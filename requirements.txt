@@ -7,3 +7,4 @@ pillow
 requests
 opencv-python-headless
 numpy
+PyPDF2
