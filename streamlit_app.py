@@ -1,3 +1,10 @@
+"""
+Reference
+- https://docs.streamlit.io/library/api-reference/layout
+- https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/app.py
+- https://huggingface.co/keremberke/yolov8m-valorant-detection/tree/main
+- https://docs.ultralytics.com/usage/python/
+"""
 import streamlit as st
 import numpy as np
 import cv2
